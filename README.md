@@ -1,8 +1,8 @@
 
-Device Tree for Xiaomi 11i (pissarro)
+Device Tree for Redmi Note 11 Pro + 5G (pissarro) using Miui 13 vendor
 ==========================================
 
-The Xiaomi 11i (codenamed _"pissarro"_) is a high-end smartphone from Xiaomi.
+The Redmi Note 11 Pro + 5G (codenamed _"pissarro"_) is a high-end smartphone from Xiaomi.
 It was released in January 2022.
 
 | Basic                   | Spec Sheet                                                                                                                     |
